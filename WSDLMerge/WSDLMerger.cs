@@ -5,8 +5,6 @@ using System.Xml;
 using System.IO;
 using System.Net;
 
-Testing github
-
 namespace WSDLMerge
 {
     internal static class WSDLMerger
