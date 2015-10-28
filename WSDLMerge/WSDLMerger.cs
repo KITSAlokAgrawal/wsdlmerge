@@ -5,7 +5,7 @@ using System.Xml;
 using System.IO;
 using System.Net;
 
-Testing github - 2
+Testing github
 
 namespace WSDLMerge
 {
